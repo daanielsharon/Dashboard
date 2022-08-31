@@ -2,7 +2,7 @@ import React from 'react';
 
 const Aktivitas = () => {
 	return (
-		<div className="desktop:bg-white desktop:mt-9 desktop:ml-[55px] desktop:w-[48vw] desktop:shadow-xl desktop:rounded-md desktop:p-10 desktop:h-auto desktop:right-0 desktop:top-0 tablet:relative tablet:top-3 tablet:right-[320px] tablet:w-[90vw] tablet:h-[67vh] mobile:p-4 mobile:h-[122vh]">
+		<div className="desktop:bg-white desktop:mt-9 desktop:ml-[55px] desktop:w-[48vw] desktop:shadow-xl desktop:rounded-md desktop:p-10 desktop:h-auto desktop:right-0 desktop:top-0 tablet:relative tablet:top-3 tablet:right-[320px] tablet:w-[90vw] tablet:h-[67vh] mobile:p-4 mobile:h-[150vh]">
 			<h2 className="font-poppins text-lg font-bold">Aktivitas</h2>
 			<div className="mt-7">
 				<div>
